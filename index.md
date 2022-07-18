@@ -3,7 +3,12 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap" rel="stylesheet">
 <style>
-p: { font-family: 'Homemade Apple', cursive; }
+  @font-face {
+  font-family: "Homemade Apple";
+  src: local("Homemade Apple"), 
+    local("Homamde-Apple");
+  }
+<!-- p: { font-family: 'Homemade Apple', cursive; } -->
 </style>
 </Head>
 Hello World
