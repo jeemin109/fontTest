@@ -1,0 +1,9 @@
+  @font-face {
+  font-family: "Homemade Apple";
+  src: local("Homemade Apple"), local("Homemade Apple Regular"), 
+    local("Homemade-Apple-Regular"), local("HomemadeAppleRegular"), local("homemade-apple-regular");
+  }
+   
+  p: {
+    font-family: "Homemade Apple";
+  }
