@@ -1,12 +1,15 @@
-<head>
-  Hello World
+<html>
+  <title>  Hello World
+</title>
 <style>
   @font-face {
   font-family: "Homemade Apple";
   src: local("Homemade Apple"), 
     local("Homamde-Apple");
   }
+      body { font-family: "Bitstream Vera Serif Bold", serif }
 </style>
-</Head>
 
-<p>This is a custom homemade apple font.</p>
+<body>
+  This is Bitstream Vera Serif Bold.
+</body><html>
